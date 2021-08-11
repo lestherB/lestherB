@@ -1,6 +1,7 @@
 # Hi, I’m Lesther 😊 <a href="github.com/lestherB"> <img src="https://avatars.githubusercontent.com/u/54540433?s=400&amp;u=95f47406527c79f5fe1f563de2fa94fa5ed910dc&amp;v=4" alt="alt text" width="50" height="50" style="border-radius:50%"></a>
 
-#### A mobile and web developer. I currently working on my personal project called [Moch](https://github.com/lestherB/moch) and I am available for a job.
+
+I call myself as a Software Engineer and I currently working on a certain company in Cebu City Philippines. I am passionate in doing things i love which is programming. I love exploring things, learning new technology to create a breakthrough software technologies that allow people to connect and innovate. I am open to work as a freelancer.
 ___
 ### My Skills
 * <img src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" alt="alt text" width="15" height="15"> Flutter
